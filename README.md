@@ -1,1 +1,1 @@
-# Basic_NotePad_JavaScript_Project
+# Basic_ToDo_List_JavaScript_Project
